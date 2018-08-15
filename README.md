@@ -18,7 +18,7 @@ Doing data analysis and data visualization using R Shiny. Currently working on w
 `plotly` is not the optimal choice to do dynamic geographic information presenting, instead, we use `leaflet` a *javascript* web plotting tool.
 
 
-
+## Projects
 <a id='R&D'></a>
 ### 1. R&D cost for different countries, differen years
 First bite of R shiny! 
