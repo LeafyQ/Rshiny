@@ -26,8 +26,8 @@ Doing data analysis and data visualization using R Shiny. Currently working on w
 
 
 ## Projects
-<a id = 'demo'></a>
-###Data Visualization 101 in Rshiny and `ggplot2`
+<a id ='demo'></a>
+### Data Visualization 101 in Rshiny and `ggplot2`
 The dataset is classic *Iris* dataset. Implement basic EDA on the dataset. (todo: may implememt different classification algorithm on the dataset)
 
 
