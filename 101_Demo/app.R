@@ -14,8 +14,8 @@ ui<- fluidPage(
     tabPanel(title = "About the dataset",
        h3('Summary of variables:'),
        verbatimTextOutput('stat'),
-       h3('Tabulation about different species:'),
-       verbatimTextOutput('tab')
+       h3('Correlation Matrix'),
+       plotOutput('corr')
     ),
     
     # univariate analysis
@@ -55,8 +55,8 @@ server<-function(input, output){
     summary(iris)
   })
   
-  output$tab <- renderPrint({
-    table(iris[,5])
+  output$corr <- renderPlot({
+    ggpairs(iris[,1:4],aes(col=iris$Species))
   })
   
   #tab2
