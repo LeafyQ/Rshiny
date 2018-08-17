@@ -1,9 +1,9 @@
 # Rshiny
-Doing data analysis and data visualization using R Shiny. Currently working on weekly data exercises using [Makeover Monday](#http://www.makeovermonday.co.uk/data/).
+Doing data analysis and data visualization using R Shiny. Currently working on weekly data exercises using [Makeover Monday](http://www.makeovermonday.co.uk/data/).
 
 ( TODO:
 
-[24 DS project to try](#https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
+[24 DS project to try](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
 )
 
